@@ -54,15 +54,23 @@ jupyter notebook "E-Commerce & Retail B2B Case Study - FINAL.ipynb"
 3.	Refer to the presentation for a concise overview.
 
 ### Tools and Technologies
+
 •	Python for data processing and modeling.
+
 •	Pandas and NumPy for data handling.
+
 •	Matplotlib and Seaborn for visual analytics.
+
 •	Scikit-learn for predictive analysis.
+
 •	Jupyter Notebook for executing the workflow.
 
 # Contributors
+
 •	Chayanika Hazra
+
 •	Bhagyashree Bose
+
 •	Bharat Bhushan 
 
 
