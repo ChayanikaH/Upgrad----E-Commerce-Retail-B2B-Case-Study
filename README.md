@@ -43,7 +43,9 @@ o	Cluster 2: Early payment duration.
 4.	Goods Invoices: Apply stricter payment terms for goods transactions.
 
 ### Files in Repository
+
 •	E-Commerce & Retail B2B Case Study.pptx: Presentation summarizing the project’s problem, approach, and outcomes.
+
 •	E-Commerce & Retail B2B Case Study - FINAL.ipynb: Jupyter notebook containing analysis, modeling, and results.
 
 ### How to Use
